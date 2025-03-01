@@ -12,8 +12,6 @@ The **Movie App** is a web application that allows users to explore and search f
 
 ## 🛠 Tech Stack
 - **Frontend:** React.js, HTML, CSS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB (if applicable)
 - **API:** The Movie Database (TMDb) API
 
 ## ⚙️ Installation & Setup
