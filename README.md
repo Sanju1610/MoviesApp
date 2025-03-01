@@ -38,19 +38,5 @@ Follow these steps to run the app locally:
    http://localhost:5173  # or the port shown in the terminal
    ```
 
-## 📷 Screenshots
-*(Add some screenshots of your app here if available)*
 
-## 📌 Future Enhancements
-- ✅ User authentication for personalized movie recommendations.
-- ✅ Dark mode support.
-- ✅ Movie reviews and ratings by users.
-
-## 📄 License
-This project is licensed under the **MIT License**.
-
-## 📞 Contact
-If you have any questions or suggestions, feel free to reach out!
-- GitHub: [Sanju1610](https://github.com/Sanju1610)
-- Email: *(Your email here)*
 
