@@ -23,7 +23,7 @@ Follow these steps to run the app locally:
    ```
 2. Navigate to the project folder:
    ```bash
-   cd MoviesApp
+   cd moviemod
    ```
 3. Install dependencies:
    ```bash
